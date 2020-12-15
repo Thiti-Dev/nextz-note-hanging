@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    flex-flow: wrap;
+    //justify-content: space-around;
+    padding: 2rem;
+}
+
+.note_card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 18rem;
+    height: 15rem;
+    background-color: gainsboro;
+    box-shadow: 5px 10px #888888;
+    margin-top: 1rem;
+    margin-right: 3rem;
+    margin-bottom: 1rem;
+}
